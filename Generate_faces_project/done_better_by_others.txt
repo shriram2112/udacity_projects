@@ -1,0 +1,2 @@
+https://github.com/jcccolo/face_generator/blob/master/dlnd_face_generation.ipynb
+https://github.com/gthm1/face_generation/blob/master/dlnd_face_generation.ipynb
